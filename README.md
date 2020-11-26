@@ -1,2 +1,2 @@
 # alchemy-elemental
-alchemy-elemental add a more items
+alchemy-elemental add a super shield
